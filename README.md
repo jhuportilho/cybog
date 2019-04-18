@@ -1,6 +1,7 @@
 # REPOSITORIO PARA A AULA DE GIT
 
-#Itens
+
+##Itens
 * Entendo 
 * Manipulando
 * e Aprendenddo sobre personagens da DC
